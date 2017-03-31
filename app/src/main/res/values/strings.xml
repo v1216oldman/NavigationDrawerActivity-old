@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ODB2_Info</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dummy_string">Dummy String</string>
+    
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+
+    <!-- ArrayList  -->
+    <string name="Item_One">Diagnostics</string>
+    <string name="Item_Two">Dashboard</string>
+    <string name="Item_Three">Maps</string>
+    <string name="Item_Four">Monitors</string>
+    <string name="Item_Five">Logs</string>
+    <string name="Item_Six">Setting</string>
+    <string name="Item_Seven">About</string>
+    <string name="Item_One_Description">Item One</string>
+    <string name="Item_Two_Description">Item Two</string>
+    <string name="Item_Three_Description">Item Three</string>
+    <string name="Item_Four_Description">Item Four</string>
+    <string name="Item_Five_Description">Item Five</string>
+    <string name="Item_Six_Description">Item Six</string>
+    <string name="Item_Seven_Description">Item Seven</string>
+
+
+
+    <!--About layout-->
+    <string name="about_Contact_window">Contact window: OBD2 Service</string>
+    <string name="about_email">E-mail: service@clientron.com</string>
+    <string name="about_company">clientron:</string>
+    <string name="about_tel">Tel: 886-2-2698-7068</string>
+    <string name="about_fax">Fax: 886-2-2698-7016</string>
+    <string name="about_office">3F., No.75. Sec. 1, Sintai 5th Rd., Sijhih Dist., New Taipei City 221, Taiwan(R.O.C.)</string>
+    <string name="about_website">Web site: www.clientron.com</string>
+
+
+
+</resources>

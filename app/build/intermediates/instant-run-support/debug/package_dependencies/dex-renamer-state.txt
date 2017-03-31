@@ -1,0 +1,25 @@
+#Wed Mar 29 17:03:16 CST 2017
+renamed.7=classes6.dex
+renamed.6=classes3.dex
+renamed.5=classes2.dex
+renamed.4=classes8.dex
+renamed.3=classes5.dex
+renamed.2=classes7.dex
+renamed.1=classes4.dex
+renamed.0=classes.dex
+base.7=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e9658e7ae18a5bfdb987dd548af7ca8ea5dbdd69
+base.6=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_65606a8956e944f9f473e13add288faccf445b20
+base.5=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5c4f45b491d77454cbc572e0ee106e024f9dccbf
+base.4=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_6adcae73b00a92f31aae176174fcd5675e9213d3
+base.3=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ca2c7b29dae9868af60471bc47de94c42527f7cb
+base.2=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_fb42d288c0388214e292d5f8e38e68701cc8e0a4
+base.1=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8f718b2e33df832bad5387e5d7709c49a751bf7e
+base.0=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_497d394488cf9f87e5a7b84675e765bba608a8e4
+file.7=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e9658e7ae18a5bfdb987dd548af7ca8ea5dbdd69\\classes.dex
+file.6=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_65606a8956e944f9f473e13add288faccf445b20\\classes.dex
+file.5=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5c4f45b491d77454cbc572e0ee106e024f9dccbf\\classes.dex
+file.4=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_6adcae73b00a92f31aae176174fcd5675e9213d3\\classes.dex
+file.3=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ca2c7b29dae9868af60471bc47de94c42527f7cb\\classes.dex
+file.2=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_fb42d288c0388214e292d5f8e38e68701cc8e0a4\\classes.dex
+file.1=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8f718b2e33df832bad5387e5d7709c49a751bf7e\\classes.dex
+file.0=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_497d394488cf9f87e5a7b84675e765bba608a8e4\\classes.dex
