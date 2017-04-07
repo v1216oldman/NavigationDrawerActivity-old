@@ -3,15 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\03519\.android\build-cache\e503d0152f4a8150411e6b39ab414f54cadc1a5a\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f718b2e33df832bad5387e5d7709c49a751bf7e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="F:\android_App\NavigationDrawerActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -20,49 +11,58 @@
         <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_08e8957a80c039a78a38c0f4f55f2e92a015e60c\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\03519\.android\build-cache\0b269184d1a3b7971d6c61a3fcd80f2c6e627ef5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c4f45b491d77454cbc572e0ee106e024f9dccbf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\03519\.android\build-cache\4f7db67634fc2b31f9754345358ad85f2b1f8bf8\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca2c7b29dae9868af60471bc47de94c42527f7cb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\03519\.android\build-cache\c625230b33c4001bef2dcf7483769f5863112d82\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_497d394488cf9f87e5a7b84675e765bba608a8e4\classes.dex" />
+        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\pre-dexed\debug\classes_497d394488cf9f87e5a7b84675e765bba608a8e4.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\03519\.android\build-cache\4f7db67634fc2b31f9754345358ad85f2b1f8bf8\output\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\03519\.android\build-cache\4f7db67634fc2b31f9754345358ad85f2b1f8bf8\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_fb42d288c0388214e292d5f8e38e68701cc8e0a4\classes.dex" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\pre-dexed\debug\classes_ca2c7b29dae9868af60471bc47de94c42527f7cb.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\03519\.android\build-cache\e503d0152f4a8150411e6b39ab414f54cadc1a5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\pre-dexed\debug\classes_8f718b2e33df832bad5387e5d7709c49a751bf7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\03519\.android\build-cache\0b269184d1a3b7971d6c61a3fcd80f2c6e627ef5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\pre-dexed\debug\classes_5c4f45b491d77454cbc572e0ee106e024f9dccbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\Jeanie_data\TOOL\Android_Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6adcae73b00a92f31aae176174fcd5675e9213d3\classes.dex" />
+        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6adcae73b00a92f31aae176174fcd5675e9213d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android_App\NavigationDrawerActivity\xcl-charts\xcl-charts.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="123db96349684a0d29a139c7d2953bba27f2d25d">
+        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\pre-dexed\debug\xcl-charts_463cd92a1462476a8da6aabc5ca71431448bdb99.jar" />
     </item>
     <item
         is-multidex="true"
@@ -70,26 +70,35 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="642cb38c5cd4888b89f309ac1a0e6780df46e88a">
+        sha1="bccb281c59d4ddfa5f8ab24bd4bff16465419c9f">
         <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_11fc7662fd69e25c2a9a990fca3eb6e24c8ef55c\classes.dex" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\03519\.android\build-cache\4f7db67634fc2b31f9754345358ad85f2b1f8bf8\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_fb42d288c0388214e292d5f8e38e68701cc8e0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\03519\.android\build-cache\2a259bc82181b6f43ddf9eb1932f82baf02571ec\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65606a8956e944f9f473e13add288faccf445b20\classes.dex" />
+        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\pre-dexed\debug\classes_65606a8956e944f9f473e13add288faccf445b20.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\03519\.android\build-cache\8a2ac08b7ce2f010873c42d0902beeb1f45c7496\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9658e7ae18a5bfdb987dd548af7ca8ea5dbdd69\classes.dex" />
+        <dex dex="F:\android_App\NavigationDrawerActivity\app\build\intermediates\pre-dexed\debug\classes_e9658e7ae18a5bfdb987dd548af7ca8ea5dbdd69.jar" />
     </item>
 
 </items>
