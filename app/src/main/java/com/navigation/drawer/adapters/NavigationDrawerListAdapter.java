@@ -11,7 +11,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.navigation.drawer.activity.R;
+import com.navigation.drawer.activitys.R;
 import com.navigation.drawer.models.Items;
 
 /**
