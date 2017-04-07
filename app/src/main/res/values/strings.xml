@@ -25,6 +25,20 @@
     <string name="Item_Six_Description">Item Six</string>
     <string name="Item_Seven_Description">Item Seven</string>
 
+    <!--Keycode BACK-->
+
+    <string name="Title_Back">Confirm window</string>
+    <string name="Message_Back">Are you sure you want to end the app?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+    <!--Menu Item2Activity-->
+    <string name="help">Help</string>
+    <string name="about">About</string>
+
+
+
+
 
 
     <!--About layout-->

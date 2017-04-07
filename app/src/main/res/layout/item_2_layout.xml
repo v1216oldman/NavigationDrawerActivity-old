@@ -1,12 +1,45 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" >
+    android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/image_view"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <TableRow>
+        <com.navigation.drawer.view.DialChart08View
+            android:id="@+id/circle_view"
+            android:layout_width="180dip"
+            android:layout_height="180dip" />
 
-</LinearLayout>
+        <com.navigation.drawer.view.DialChart05View
+            android:id="@+id/circle_view1"
+            android:layout_width="180dip"
+            android:layout_height="180dip" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <com.navigation.drawer.view.DialChart06View
+            android:id="@+id/circle_view2"
+            android:layout_width="180dip"
+            android:layout_height="180dip" />
+
+        <com.navigation.drawer.view.DialChart03View
+            android:id="@+id/circle_view3"
+            android:layout_width="180dip"
+            android:layout_height="180dip" />
+    </TableRow>
+
+    <TableRow>
+        <com.navigation.drawer.view.DialChart09View
+            android:id="@+id/circle_view4"
+            android:layout_width="180dip"
+            android:layout_height="180dip" />
+
+        <com.navigation.drawer.view.DialChart02View
+            android:id="@+id/circle_view5"
+            android:layout_width="180dip"
+            android:layout_height="180dip" />
+
+    </TableRow>
+</TableLayout>

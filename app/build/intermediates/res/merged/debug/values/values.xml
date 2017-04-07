@@ -426,6 +426,8 @@
     <string name="Item_Three_Description">Item Three</string>
     <string name="Item_Two">Dashboard</string>
     <string name="Item_Two_Description">Item Two</string>
+    <string name="Message_Back">Are you sure you want to end the app?</string>
+    <string name="Title_Back">Confirm window</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -445,6 +447,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About</string>
     <string name="about_Contact_window">Contact window: OBD2 Service</string>
     <string name="about_company">clientron:</string>
     <string name="about_email">E-mail: service@clientron.com</string>
@@ -456,10 +459,13 @@
     <string name="app_name">ODB2_Info</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="cancel">Cancel</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="close_drawer">Drawer Close</string>
+    <string name="confirm">Confirm</string>
     <string name="dummy_string">Dummy String</string>
     <string name="hello_world">Hello world!</string>
+    <string name="help">Help</string>
     <string name="open_drawer">Drawer Open</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
@@ -471,14 +477,10 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
     </style>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
