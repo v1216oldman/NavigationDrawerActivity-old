@@ -155,7 +155,7 @@ public class DialChart06View extends GraphicalView {
 			Paint paintBT = new Paint();
 			paintBT.setColor(Color.WHITE);
 			paintBT.setTextAlign(Align.CENTER);
-			paintBT.setTextSize(38);
+			paintBT.setTextSize(60);
 			paintBT.setFakeBoldText(true);
 			paintBT.setAntiAlias(true);	
 			plotAttrInfo.addAttributeInfo(XEnum.Location.BOTTOM, 

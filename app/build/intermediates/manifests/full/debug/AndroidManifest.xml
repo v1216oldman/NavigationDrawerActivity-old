@@ -19,7 +19,7 @@
         	We will check if BaseActivity launch first time and open desired activity and set navigation item selected
         -->
         <activity
-            android:name="com.navigation.drawer.activity.BaseActivity"
+            android:name="com.navigation.drawer.activitys.BaseActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,14 +27,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.navigation.drawer.activity.HomeActivity" />
-        <activity android:name="com.navigation.drawer.activity.Item1Activity" />
-        <activity android:name="com.navigation.drawer.activity.Item2Activity" />
-        <activity android:name="com.navigation.drawer.activity.Item3Activity" />
-        <activity android:name="com.navigation.drawer.activity.Item4Activity" />
-        <activity android:name="com.navigation.drawer.activity.Item5Activity" />
-        <activity android:name="com.navigation.drawer.activity.Item6Activity" />
-        <activity android:name="com.navigation.drawer.activity.Item7Activity" />
+        <activity android:name="com.navigation.drawer.activitys.HomeActivity" />
+        <activity android:name="com.navigation.drawer.activitys.Item1Activity" />
+        <activity android:name="com.navigation.drawer.activitys.Item2Activity" />
+        <activity android:name="com.navigation.drawer.activitys.Item3Activity" />
+        <activity android:name="com.navigation.drawer.activitys.Item4Activity" />
+        <activity android:name="com.navigation.drawer.activitys.Item5Activity" />
+        <activity android:name="com.navigation.drawer.activitys.Item6Activity" />
+        <activity android:name="com.navigation.drawer.activitys.Item7Activity" />
     </application>
 
 </manifest>

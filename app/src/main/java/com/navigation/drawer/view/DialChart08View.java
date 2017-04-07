@@ -8,6 +8,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 
 import org.xclcharts.chart.DialChart;
+import org.xclcharts.common.MathHelper;
 import org.xclcharts.renderer.XEnum;
 import org.xclcharts.renderer.plot.PlotAttrInfo;
 import org.xclcharts.view.GraphicalView;
@@ -112,12 +113,12 @@ public class DialChart08View extends GraphicalView {
 			rcolor.add(Color.rgb(133, 206, 130));
 			rcolor.add(Color.rgb(252, 210, 9));		
 			rcolor.add(Color.rgb(229, 63, 56));	
-			chart.addStrokeRingAxis(0.7f,0.6f, ringPercentage, rcolor);
+			chart.addStrokeRingAxis(0.8f,0.7f, ringPercentage, rcolor);
 									
 			List<String> rlabels2  = new ArrayList<String>();
 			for(int i=0;i<=10;i++)
 			{
-				rlabels2.add(Integer.toString(i*10)+"km/h");
+				rlabels2.add(Integer.toString(i*10));
 			}
 			chart.addInnerTicksAxis(0.8f, rlabels2);
 								
@@ -143,6 +144,25 @@ public class DialChart08View extends GraphicalView {
 			paintTB.setTextSize(30);
 			paintTB.setAntiAlias(true);
 			plotAttrInfo.addAttributeInfo(XEnum.Location.TOP, "MPH", 0.2f, paintTB);
+
+
+			Paint paintBT = new Paint();
+			paintBT.setColor(Color.WHITE);
+			paintBT.setTextAlign(Paint.Align.CENTER);
+			paintBT.setTextSize(60);
+			paintBT.setFakeBoldText(true);
+			paintBT.setAntiAlias(true);
+			plotAttrInfo.addAttributeInfo(XEnum.Location.BOTTOM,
+			Float.toString(MathHelper.getInstance().round(mPercentage * 100,2)), 0.3f, paintBT);
+
+
+			Paint paintBT2 = new Paint();
+			paintBT2.setColor(Color.WHITE);
+			paintBT2.setTextAlign(Paint.Align.CENTER);
+			paintBT2.setTextSize(30);
+			paintBT2.setFakeBoldText(true);
+			paintBT2.setAntiAlias(true);
+			plotAttrInfo.addAttributeInfo(XEnum.Location.BOTTOM, "Km/h", 0.4f, paintBT2);
 			
 		}
 		

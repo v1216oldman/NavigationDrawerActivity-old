@@ -178,16 +178,33 @@ public class DialChart02View extends GraphicalView {
 			paintTB.setTextAlign(Align.CENTER);
 			paintTB.setTextSize(30);			
 			plotAttrInfo.addAttributeInfo( XEnum.Location.TOP, "12V", 0.9f, paintTB);
+
+			paintTB.setColor(Color.WHITE);
+			paintTB.setTextAlign(Align.CENTER);
+			paintTB.setTextSize(30);
+			paintTB.setAntiAlias(true);
+			plotAttrInfo.addAttributeInfo(XEnum.Location.TOP, "Battery", 0.3f, paintTB);
+
 			
 			Paint paintBT = new Paint();
 			paintBT.setColor(Color.WHITE);
 			paintBT.setTextAlign(Align.CENTER);
-			paintBT.setTextSize(30);
-			
-			
+			paintBT.setTextSize(60);
 			plotAttrInfo.addAttributeInfo(XEnum.Location.BOTTOM, 
-					"Battery: "+Float.toString( mPercentage *100)+"V", 0.8f, paintBT);
+					Float.toString( mPercentage *100), 0.8f, paintBT);
 					//"平均速率: "+Float.toString( mPercentage * 100)+"K/s", 0.8f, paintBT);
+
+
+			Paint paintBT2 = new Paint();
+			paintBT2.setColor(Color.WHITE);
+			paintBT2.setTextAlign(Align.CENTER);
+			paintBT2.setTextSize(30);
+			paintBT2.setFakeBoldText(true);
+			paintBT2.setAntiAlias(true);
+			plotAttrInfo.addAttributeInfo(XEnum.Location.BOTTOM, "V", 0.4f, paintBT2);
+
+
+
 		}
 		
 		public void setCurrentStatus(float percentage)

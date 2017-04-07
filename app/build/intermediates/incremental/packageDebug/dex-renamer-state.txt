@@ -1,4 +1,4 @@
-#Fri Apr 07 10:25:54 CST 2017
+#Fri Apr 07 17:19:39 CST 2017
 base.0=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_08e8957a80c039a78a38c0f4f55f2e92a015e60c
 renamed.1=classes2.dex
 renamed.0=classes.dex
