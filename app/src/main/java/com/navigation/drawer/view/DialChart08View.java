@@ -101,7 +101,7 @@ public class DialChart08View extends GraphicalView {
 										
 				i+=2;
 			}
-			chart.addOuterTicksAxis(0.9f, rlabels);
+			chart.addOuterTicksAxis(0.8f, rlabels);
 			
 			//环形颜色轴
 			List<Float> ringPercentage = new ArrayList<Float>();				
@@ -120,7 +120,7 @@ public class DialChart08View extends GraphicalView {
 			{
 				rlabels2.add(Integer.toString(i*10));
 			}
-			chart.addInnerTicksAxis(0.8f, rlabels2);
+			chart.addInnerTicksAxis(0.7f, rlabels2);
 								
 			chart.getPlotAxis().get(1).getFillAxisPaint().setColor(Color.rgb(28, 129, 243) );
 			

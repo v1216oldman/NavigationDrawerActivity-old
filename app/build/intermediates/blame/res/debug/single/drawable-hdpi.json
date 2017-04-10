@@ -20,24 +20,24 @@
         "source": "F:\\android_App\\NavigationDrawerActivity\\app\\src\\main\\res\\drawable-hdpi\\item_1.png"
     },
     {
-        "merged": "F:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_4.png",
-        "source": "F:\\android_App\\NavigationDrawerActivity\\app\\src\\main\\res\\drawable-hdpi\\item_4.png"
-    },
-    {
         "merged": "F:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_6.png",
         "source": "F:\\android_App\\NavigationDrawerActivity\\app\\src\\main\\res\\drawable-hdpi\\item_6.png"
+    },
+    {
+        "merged": "F:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_4.png",
+        "source": "F:\\android_App\\NavigationDrawerActivity\\app\\src\\main\\res\\drawable-hdpi\\item_4.png"
     },
     {
         "merged": "F:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit.png",
         "source": "F:\\android_App\\NavigationDrawerActivity\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
     },
     {
-        "merged": "F:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\it800.png",
-        "source": "F:\\android_App\\NavigationDrawerActivity\\app\\src\\main\\res\\drawable-hdpi\\it800.png"
-    },
-    {
         "merged": "F:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_5.png",
         "source": "F:\\android_App\\NavigationDrawerActivity\\app\\src\\main\\res\\drawable-hdpi\\item_5.png"
+    },
+    {
+        "merged": "F:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\it800.png",
+        "source": "F:\\android_App\\NavigationDrawerActivity\\app\\src\\main\\res\\drawable-hdpi\\it800.png"
     },
     {
         "merged": "F:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_2.png",
